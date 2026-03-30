@@ -21,7 +21,7 @@
 - Lowest Expenses - Credit Card category has the lowest expenses.
 
   
-- Dashboard Interaction <a href="https://github.com/Varshanatchathra/Financial-growth-Analysis/blob/main/FinanceData%20-%20Excel%2030-03-2026%2007_51_16%20PM.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Varshanatchathra/Financial-growth-Analysis/blob/main/FinanceData%20-%20Excel%2030-03-2026%2009_20_28%20PM.png">View Dashboard</a>
 
 ## Dashboard Features:
 - KPI cards - Total Revenue,Total Profit,Total Expenses,Unit Sold,Profit Margin%
